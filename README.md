@@ -1,2 +1,2 @@
 # Algoritmos
-Algoritmos 2025-1
+Repositorio para la materia de Algoritmos 2025-1
