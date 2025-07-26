@@ -20,4 +20,4 @@ Repositorio correspondiente a la materia **Algoritmos** de la Universidad Nacion
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/algoritmos-unal-2025-1.git
+   git clone https://github.com/jpastor1649/algoritmos-unal-2025-1.git
